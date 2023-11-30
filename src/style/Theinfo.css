@@ -67,7 +67,7 @@
     gap: 2rem;
   }
   .info-container {
-    font-size:1.7rem;
+    font-size: 1.7rem;
     text-align: left;
     width: 80%;
   }
@@ -76,6 +76,6 @@
   }
   .my-pic_container {
     max-width: 150px;
-    height:150px;
+    height: 150px;
   }
 }

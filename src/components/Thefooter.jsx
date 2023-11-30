@@ -15,7 +15,7 @@ function Thefooter() {
       </div>
 
       <div className="mail-info_container d-flex justify-content-center align-items-center ">
-        <img className="mail-pic"alt="mail pic" src="/email.svg" />
+        <img className="mail-pic" alt="mail pic" src="/email.svg" />
         <a
           className="link-underline-secondary link-offset-3"
           href="mailto:alessandro.bacci1993@gmail.com"

@@ -10,7 +10,7 @@
 .curriculum-logo {
   height: 200px;
 }
-.socials-text{
+.socials-text {
   font-size: 2rem;
   font-weight: normal;
 }
@@ -26,11 +26,11 @@
     border: none;
   }
 
-  .github-logo{
-    height:100px;
+  .github-logo {
+    height: 100px;
   }
-  .linkedin-logo{
-    height:100px;
+  .linkedin-logo {
+    height: 100px;
   }
   .curriculum-logo {
     height: 100px;
@@ -43,16 +43,16 @@
     padding-top: 3rem;
   }
 
-  .github-logo{
-    height:50px;
+  .github-logo {
+    height: 50px;
   }
-  .linkedin-logo{
-    height:50px;
+  .linkedin-logo {
+    height: 50px;
   }
   .curriculum-logo {
     height: 50px;
   }
-  .socials-text{
+  .socials-text {
     font-size: 1.3rem;
   }
 }

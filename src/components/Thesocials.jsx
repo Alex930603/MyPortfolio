@@ -1,5 +1,5 @@
 import React from "react";
-import "../style/Thesocials.css"
+import "../style/Thesocials.css";
 
 function Thesocials() {
   const CurriculumABACCI = "/CurriculumABACCI.pdf";
