@@ -1,0 +1,58 @@
+.social-icons_container {
+  gap: 20rem;
+  padding-top: 5rem;
+}
+
+.curriculum-button {
+  background-color: transparent;
+  border: none;
+}
+.curriculum-logo {
+  height: 200px;
+}
+.socials-text{
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .social-icons_container {
+    gap: 5rem;
+    padding-top: 5rem;
+  }
+
+  .curriculum-button {
+    background-color: transparent;
+    border: none;
+  }
+
+  .github-logo{
+    height:100px;
+  }
+  .linkedin-logo{
+    height:100px;
+  }
+  .curriculum-logo {
+    height: 100px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .social-icons_container {
+    gap: 2rem;
+    padding-top: 3rem;
+  }
+
+  .github-logo{
+    height:50px;
+  }
+  .linkedin-logo{
+    height:50px;
+  }
+  .curriculum-logo {
+    height: 50px;
+  }
+  .socials-text{
+    font-size: 1.3rem;
+  }
+}

@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(
+    68deg,
+    rgb(83, 83, 83) 10%,
+    rgb(60, 60, 60) 20%,
+    rgb(60, 60, 60) 30%,
+    rgb(40, 40, 40) 40%,
+    rgb(36, 36, 36) 50%,
+    rgb(32, 32, 32) 60%,
+    rgb(26, 26, 26) 70%,
+    rgb(19, 19, 19) 80%,
+    rgb(14, 14, 14) 90%,
+    rgb(4, 4, 4) 100%
+  );
+}
+
+/*body{   
+    background:
+     linear-gradient(180deg, 
+     rgb(83, 83, 83) 10%, rgb(63, 63, 63) 20%,rgb(53, 52, 52) 30%, 
+     rgb(31, 30, 30) 40%, rgb(7, 46, 10) 50%, rgb(7, 46, 10) 60%, 
+     rgb(26, 26, 26) 70%,rgb(19, 19, 19) 80%, rgb(7, 7, 7) 90%, rgb(0, 0, 0) 100%);
+}*/
+
+.main-home {
+  gap: 5rem;
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .main-home {
+    gap: 2rem;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .main-home {
+    gap: 1.4rem;
+  }
+}

@@ -1,0 +1,34 @@
+.bg-container {
+    height: 100vh;
+    background-size: cover;
+    background-image: url("../../public/background_portfolio.jpg");
+    background-repeat: no-repeat;
+    filter: saturate(0) brightness(85%);
+  }
+
+  .my-name {
+    font-size: 9rem;
+    color:white
+  }
+  
+  .my-job {
+    font-size: 7rem;
+  }
+  
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .my-name{
+        font-size:8rem;
+        font-weight:bolder
+    }
+  }
+
+  @media only screen and (max-width: 767px) {
+    .my-name{
+      font-size:3.5rem;
+      font-weight:bolder
+  }
+  .my-job {
+    font-size: 4.5rem;
+  }
+}
+
