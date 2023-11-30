@@ -4,6 +4,7 @@
     background-image: url("../../public/background_portfolio.jpg");
     background-repeat: no-repeat;
     filter: saturate(0) brightness(85%);
+    background-attachment: fixed
   }
 
   .my-name {

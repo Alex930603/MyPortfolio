@@ -18,9 +18,7 @@ function Theinfo() {
             specialize in creating appealing interface and add functionalities
             to websites. My experience spans freelancing and collaborating with
             agencies and organizations, where I've created, upgraded and
-            improved web contents. I thrive on challenges and am committed to
-            elevating projects through innovative coding and design techniques.
-            Let's work together to bring your vision to life!
+            improved web contents. I want to grow and learn new things everyday, let's work together!   
           </p>
         </div>
       </div>
